@@ -1,0 +1,7 @@
+base\BaseTest.class
+pages\LoginPage.class
+utils\Utils.class
+pages\NewRequestPage.class
+utils\ConfigHelper.class
+pages\ProcessPage.class
+config\ConfigurationManager.class
